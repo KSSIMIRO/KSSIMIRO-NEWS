@@ -1,4 +1,8 @@
 html {
-    background-color: rgb(0, 0, 0);
+    background-color: #1b1e23;
     color: white;
+}
+
+a {
+    color: rgb(121, 235, 121);
 }
