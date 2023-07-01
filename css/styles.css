@@ -6,3 +6,28 @@ html {
 a {
     color: rgb(121, 235, 121);
 }
+
+.tab {
+    width: 80vw;
+    text-align: center;
+}
+
+#tab {
+    width: 40vw;
+}
+
+p {
+    font-size: 1.15rem;
+}
+h4 {
+    font-size: 1.5rem;
+}
+h2 {
+    font-size: 2.2rem;
+}
+h3 {
+    font-size: 1.75rem;
+}
+h1 {
+    font-size: 2.5rem;
+}
